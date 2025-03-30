@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": "1743140012",
-            "filename": "tpp_15.1-spes-UNOFFICIAL-20250328.zip",
-            "id": "version151",
-            "size": "1800000000",
-            "url": "https://github.com/Yograt/ota/releases/download/28032025/tpp_15.1-spes-UNOFFICIAL-20250328.zip",
-            "version": "15.1"
+            "datetime": "",
+            "filename": "",
+            "id": "",
+            "size": "",
+            "url": "https://github.com/Yograt/ota/releases/download/",
+            "version": "10.4"
         }
     ]
 }
