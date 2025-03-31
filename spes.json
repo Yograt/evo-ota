@@ -12,7 +12,7 @@
       "size": 2503734946,
       "version": "10.4",    
       "buildtype": "Beta",
-      "forum": "-", #(mandatory)
+      "forum": "-", 
       "firmware": "-",
       "paypal": "-",
       "telegram": "https://t.me/yogratsupport",
