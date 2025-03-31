@@ -1,3 +1,10 @@
+March 31, 2025
+- LockScreen Mods return
+- QS Data Usage return
+- Evo Recovery Changes
+- Bug fixes
+
+
 March 30, 2025
 - Updated to 10.4
 - Modernize Tap to wake
