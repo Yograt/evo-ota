@@ -2,19 +2,19 @@
   "response": [
     {
       "maintainer": "Yogratdesuyo and Spesmynuts (Yograt or Miko and Nexy)",
-      "oem": "Xiaomi Redmi",
-      "device": "Redmi Note 11, NFC/spes, spesn",
-      "filename": "EvolutionX-15.0-<date>-<device codename>-v<evolution_x_version>.zip",
-      "download": "https://github.com/Yograt/ota/evo-spes/",
-      "timestamp": 0000000000,
-      "md5": "",
-      "sha256": "",
-      "size": 123456789,
-      "version": "EvoX",    
+      "oem": "Xiaomi",
+      "device": "spes, spesn",
+      "filename": "EvolutionX-15.0-20250331-spes-10.4-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/yograt-builds/files/spes/stable/Evolution-X/Build-31-03-2025/EvolutionX-15.0-20250331-spes-10.4-Unofficial.zip/download",
+      "timestamp": 1743386250,
+      "md5": "baa507514ea4eb3bd2fd4f422fbaca01",
+      "sha256": "96f418092a5d7ce6e424390ebe0d2bc935862523244add8eeb0e2990a0217c9e",
+      "size": 2503734946,
+      "version": "10.4",    
       "buildtype": "Beta",
-      "forum": "https://forum link", #(mandatory)
-      "firmware": "https://firmware link",
-      "paypal": "https://donation link",
+      "forum": "-", #(mandatory)
+      "firmware": "-",
+      "paypal": "-",
       "telegram": "https://t.me/yogratsupport",
       "github": "Yograt",
       "initial_installation_images": [
