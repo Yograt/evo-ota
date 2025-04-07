@@ -4,12 +4,12 @@
       "maintainer": "Yogratdesuyo and Spesmynuts (Yograt or Miko and Nexy)",
       "oem": "redmi",
       "device": "spes,spesn",
-      "filename": "EvolutionX-15.0-20250331-spes-10.4-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/yograt-builds/files/spes/stable/Evolution-X/Build-31-03-2025/EvolutionX-15.0-20250331-spes-10.4-Unofficial.zip/download",
-      "timestamp": 1743415410,
-      "md5": "d3104e05b649ba4b7d5e1330f1afb477",
-      "sha256": "89ff5d265fee7e9cfc1a6e10efd8af62561fc2277cd2b6d0cbf67140734aa3fd",
-      "size": 2509525283,
+      "filename": "EvolutionX-15.0-20250406-spes-10.4-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/yograt-builds/files/spes/stable/Evolution-X/Build-06-04-25/EvolutionX-15.0-20250406-spes-10.4-Unofficial.zip/download",
+      "timestamp": 1743941680,
+      "md5": "92b136bb29136c9a3a7fdc86d1d9e563",
+      "sha256": "9699ecafeb4db91854204f52690bdec4b8964aac2e503e48756131a46156ee2e",
+      "size": 2557079897,
       "version": "10.4",    
       "buildtype": "Stable",
       "forum": "-", 
@@ -18,7 +18,7 @@
       "telegram": "https://t.me/yogratsupport",
       "github": "Yograt",
       "initial_installation_images": [
-        "Prepare to evolve! Unofficial OTA Support"
+        "Prepare to evolve! Unofficial OTA Support, brought to you by yogratbuilds"
       ]
     }
   ]
