@@ -1,3 +1,9 @@
+April 6, 2025
+- Added Gamebar
+- Improved performance, efficiency and stability on both source and device side
+- Reverted to old QS panel - source
+- Changes at pixel-fw repo - source
+
 March 31, 2025
 - LockScreen Mods return
 - QS Data Usage return
