@@ -1,4 +1,4 @@
-# April 07, 2025
+# April 08, 2025
 ## Version: 2.0
 **Security Patch:** A15 QPR2 March
 
@@ -37,8 +37,7 @@
 - Modernize Tap to wake brought to you by spes devs and yogratbuilds
 - Improved stability both source and device side
 - Improved security patch both source and device side
-- Improved performance both source and device side
-- Improved effciency on device side
+- Improved performance on source side
 - OTA Support for spes/n brought to you by Yogratbuilds
 
 # March 28, 2025
