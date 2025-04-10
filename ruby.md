@@ -1,4 +1,4 @@
-# April 08, 2025
+# April 10, 2025
 ## Version: 2.0
 **Security Patch:** A15 QPR2 March
 
@@ -33,15 +33,8 @@
 - Advanced Restart option
 - Additional privacy and security options like hide applist, disable storage encryption, ignore window secure flags, etc.
 - quick tap feature with sensitivity control
-- Updater for spes/n unofficial brought to you by Yogratbuilds
-- Modernize Tap to wake brought to you by spes devs and yogratbuilds
-- Improved stability both source and device side
-- Improved security patch both source and device side
+- Updater for ruby unofficial brought to you by Yogratbuilds
+- Improved stability on source side
+- Improved security patch on source side
 - Improved performance on source side
-- OTA Support for spes/n brought to you by Yogratbuilds
-
-# March 28, 2025
-- Updated to 15.1
-- Modernize Tap to wake
-- Initial Stable Build
-- OTA Support
+- OTA Support for ruby brought to you by Yogratbuilds
