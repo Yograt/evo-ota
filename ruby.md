@@ -34,7 +34,7 @@
 - Additional privacy and security options like hide applist, disable storage encryption, ignore window secure flags, etc.
 - quick tap feature with sensitivity control
 - Updater for ruby unofficial brought to you by Yogratbuilds
-- Improved stability on source side
+- Improved stability on both device and source side
 - Improved security patch on source side
 - Improved performance on source side
 - OTA Support for ruby brought to you by Yogratbuilds
