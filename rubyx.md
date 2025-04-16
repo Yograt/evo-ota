@@ -1,4 +1,4 @@
-# April 10, 2025
+# April 15, 2025
 ## Version: 2.0
 **Security Patch:** A15 QPR2 March
 
@@ -35,9 +35,11 @@
 - quick tap feature with sensitivity control
 - Updater for ruby unofficial brought to you by Yogratbuilds
 - Improved stability on both device and source side
-- Improved security patch on source side
+- Improved security patch botg soudce and device side
 - Improved performance on source side
-- MIUI CAM fix
+- MIUI CAM lag fix
 - Dolby Atmos Finally included
 - OTA Support for ruby brought to you by Yogratbuilds
+- Updated Fingerprint to 1.0.17.0 UMOMIXM
+- Vendor Security Oatch are updated to March
 - Several bug fixes
