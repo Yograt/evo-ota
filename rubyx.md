@@ -37,4 +37,7 @@
 - Improved stability on both device and source side
 - Improved security patch on source side
 - Improved performance on source side
+- MIUI CAM fix
+- Dolby Atmos Finally included
 - OTA Support for ruby brought to you by Yogratbuilds
+- Several bug fixes
