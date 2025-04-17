@@ -35,7 +35,7 @@
 - quick tap feature with sensitivity control
 - Updater for ruby unofficial brought to you by Yogratbuilds
 - Improved stability on both device and source side
-- Improved security patch botg source and device side
+- Improved security patch both source and device side
 - Improved performance on source side
 - MIUI CAM lag fix
 - Dolby Atmos Finally included
