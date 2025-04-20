@@ -1,3 +1,11 @@
+April 19,2025
+- Updated to EvolutionX 10.5
+- Initial QPR2 Build
+- Security Patch Upgrade
+- Fixed navbar - source
+- Improved stability - source
+- Bug fixes
+
 April 6, 2025
 - Added Gamebar
 - Improved performance, efficiency and stability on both source and device side
