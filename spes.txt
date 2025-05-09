@@ -4,6 +4,7 @@ May 09,2025
 - Move Lineage Health HAL to select()
 - Switch to NCM USB tethering
 - Bug fixes
+- Dolby Ready
 - May Security Patch
 
 April 19,2025
