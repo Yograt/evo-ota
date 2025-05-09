@@ -1,3 +1,11 @@
+May 09,2025
+- Updated to EvolutionX 10.6
+- Move camera package name flag to select()
+- Move Lineage Health HAL to select()
+- Switch to NCM USB tethering
+- Bug fixes
+- May Security Patch
+
 April 19,2025
 - Updated to EvolutionX 10.5
 - Initial QPR2 Build
