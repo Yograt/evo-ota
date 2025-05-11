@@ -1,3 +1,11 @@
+May 10,2025
+- Updated to EvolutionX 10.6
+- Enable split shade QS on landscape mode
+- Reduce default DPI size to 280
+- Added Google Recorder
+- Bug fixes
+- Security Patch Upgrade
+
 April 19,2025
 - Updated to EvolutionX 10.5
 - Initial QPR2 Build
