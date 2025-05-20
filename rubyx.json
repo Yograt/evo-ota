@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1747570865,
-      "filename": "PixelProject_rubyx-2.0-UNOFFICIAL-20250415-0533.zip",
+      "filename": "PixelProject_rubyx-2.2-UNOFFICIAL-20250518-1221.zip",
       "id": "9129fac5690947805b239c6340685c742892d1d8af43b455620784796bd6323a",
       "size": 2392967516,
-      "url": "https://github.com/Yograt/ota/releases/download/15042025/PixelProject_rubyx-2.0-UNOFFICIAL-20250415-0533.zip",
-      "version": "2.0"
+      "url": "https://sourceforge.net/projects/yograt-builds/files/ruby/TPP/Build-18-05-25/PixelProject_rubyx-2.2-UNOFFICIAL-20250518-1221.zip/download",
+      "version": "2.2"
     }
   ]
 }
