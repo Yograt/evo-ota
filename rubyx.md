@@ -4,6 +4,7 @@
 
 ### Changelogs:
 -   rubyx: Camera Lag Fixed
+-   rubyx: Updated fingerprint to 1.0.18.0 UMOMIXM
 -   rubyx: various of bug fixes
 
 # April 18, 2025
