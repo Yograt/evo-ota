@@ -1,3 +1,11 @@
+# April 21, 2025
+## Version: 2.2
+**Security Patch:** A15 QPR2 May
+
+### Changelogs:
+-   rubyx: Camera Lag Fixed
+-   rubyx: various of bug fixes
+
 # April 18, 2025
 ## Version: 2.2
 **Security Patch:** A15 QPR2 May
