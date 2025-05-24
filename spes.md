@@ -1,3 +1,43 @@
+# April 23, 2025
+## Version: 2.2
+**Security Patch:** A15 QPR2 May
+
+### Changelogs:
+-   SystemUI: Implement burn-in protection for status/navbar
+-   fixup! SystemUI: Add double tap to sleep gesture
+-   SystemUI: Integrate Google Lens into Screenshot UI
+-   Allow to suppress notifications sound/vibration if screen is ON
+-   PowerShareTile: Migrate to AIDL PowerShare HAL
+-   SystemUI: Put bare minimum metadata in screenshots
+-   SystemUI: Ongoing action progressbar chip implementation
+-   SystemUI: Optional haptic feedback on back gesture
+-   SettingsLib: Redesign seekbar according to M3 slider
+-   Settings: Add a toggle to force LTE CA
+-   Settings: Optional haptic feedback on back gesture
+-   vendor: prebuilt: import screenshot sound from vendor/prebuilt
+-   Various System Patches for NPE'S and Performance fixes 
+-   Add support for GameSpace
+-   PIHooks: Update komodo FP to latest april FP
+-   Settings: show link to Google Play
+-   Settings: Controllable squiggle animation
+-   Settings: Allow customizing volume stream steps
+-   Settings: Move blur toggle to Display options
+-   Settings: Add Simple Maintainer String
+-   Settings: Add Wi-Fi and Bluetooth timeout feature
+-   SystemUI: Introduce preferred network tile
+-   SystemUI: Implement new screenshot sound effect
+-   SystemUI: Add ability to hide carrier name on lockscreen
+-   SystemUI: Hide notifications when quickly expanding QS
+-   SystemUI: Introduce three-target ringer mode tile
+-   SystemUI: Implement Split notification shade changes
+-   SystemUI: Enable blur behind the power menu
+-   SystemUI: Add ability to hide carrier name on lockscreen
+-   spes: Allow all filesystems for USB-OTG
+-   spes: Switch to NCM USB tethering
+-   spes: Dolby Ready Only
+-   spes: Move Lineage Health HAL to select()
+-   spes: several bug fixes
+
 # April 08, 2025
 ## Version: 2.0
 **Security Patch:** A15 QPR2 March
