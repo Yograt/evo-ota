@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1744117982,
-      "filename": "PixelProject_spes-2.0-Unofficial-20250408-1313.zip",
-      "id": "c0e78d7f7b2fb834e22c4a05aee7cdbcdd06141485f1854371d2e9208b83cbff",
-      "size": 2278995331,
+      "datetime": 1747987351,
+      "filename": "PixelProject_spes-2.2-UNOFFICIAL-20250523-0802.zip",
+      "id": "cf32ad001308eb230ab408fc2d02c68b269f2c32cad1bfc307ce3a0dc7c381c7",
+      "size": 2376448426,
       "url": "https://sourceforge.net/projects/yograt-builds/files/spes/stable/The-Pixel-Project/Build-08-04-25/PixelProject_spes-2.0-Unofficial-20250408-1313.zip/download",
-      "version": "2.0"
+      "version": "2.2"
     }
   ]
 }
