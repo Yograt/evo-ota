@@ -1,3 +1,15 @@
+June 27,2025
+- Updated to EvolutionX 11.0 Beta
+- Upgraded Security Patch
+- Improved Stability on device and source side
+- Hidden a few options from Evolver
+- BPF Patched kernel
+- Based on latest LineageOS 23.0
+- Based on Android 16
+- Removed Leica Camera
+- Removed Dolby Ready Support
+- Bug fixes
+
 June 15,2025
 - Updated to EvolutionX 10.7
 - June Security Patch
