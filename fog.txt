@@ -1,3 +1,21 @@
+August 03, 2025
+- status bar brightness control
+- status bar ongoing progress chip
+- enable/disable quick settings swipe down on lockscreen
+- sidebar/freeform windows
+- lockscreen media art
+- fp unlock ripple/auth vibration
+- Fixed evolver crashing issues
+- Fixed RAM Management - source
+- Migrated from TARGET_INIT_VENDOR_LIB to soong_config_set,libinit,vendor_init_lib for Init - device
+- Improved Stability - source
+- Updated to EvolutionX 11.0 Stable
+- Upgraded Security Patch
+- Hidden a few options from Evolver
+- Based on latest LineageOS 23.0
+- Based on Android 16
+- Bug fixes
+
 May 10,2025
 - Updated to EvolutionX 10.6
 - Enable split shade QS on landscape mode
